@@ -1,0 +1,12 @@
+Department,Age_Range,Salary_class,Status
+Sales,Middle-aged,High,Senior
+Sales,Young,Low,Junior
+Sales,Middle-aged,Low,Junior
+Systems,Young,High,Junior
+Systems,Middle-aged,High,Senior
+Systems,Young,High,Junior
+Systems,Senior,High,Senior
+Marketing,Middle-aged,High,Senior
+Marketing,Middle-aged,Average,Junior
+Secretary,Senior,Average,Senior
+Secretary,Young,Low,Junior
