@@ -1,4 +1,4 @@
-# https://github.com/ibm321/AI_Examples/tree/master/DecisionTreeId-3
+# https://github.com/ibm321/Decision_Tree_id3
 # Ibtisam Ur Rehman 6 Apr 2018 1:23 AM
 
 
